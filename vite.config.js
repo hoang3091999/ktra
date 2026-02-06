@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "https://hoang3091999.github.io/ktra/",
+  base: "/ktra/",
   plugins: [react()],
 })
